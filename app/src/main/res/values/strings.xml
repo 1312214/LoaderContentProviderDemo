@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoaderContentProviderDemo</string>
+    <string name="load_data">load data</string>
+</resources>
